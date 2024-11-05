@@ -1,0 +1,1 @@
+This project contains Interface of guishape and programs of creating and special functions and also elements which refers to standard and also spacial shapes. Furthermore, this project also have comprehensive tests for each shape. 
